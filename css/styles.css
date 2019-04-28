@@ -32,6 +32,12 @@ input{
   width: 200px;
   outline: none;
 }
+input{
+  margin: 10px;
+}
+textarea{
+  margin: 10px;
+}
 navbar{
   font-size: 20px;
   padding-right: 280px;
