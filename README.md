@@ -1,11 +1,10 @@
 # Triangle-tracker
 This is a program that allows the user to input the length value of the three sides of a triangle. The program then lets the user know what type of a triangle it is or whether it is not a triangle at all.
 ## BDD
-| ## Behaviour | ## Input | ## Output |
----------------------------------------
+
+| Behaviour |  Input |  Output |
+------------|---------|---------|
 | Accepts input as numbers | 5 | Correct |
-|
-|
 ## Installation
 Web browser.
 Internet.
