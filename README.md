@@ -5,6 +5,10 @@ This is a program that allows the user to input the length value of the three si
 | Behaviour |  Input |  Output |
 ------------|---------|---------|
 | Accepts input as numbers | 5 | Correct |
+| Compares three numbers | 5 | correct |
+| Equilateral Triangle | all three inputs equal (5,5,5) | correct |
+| Isosceles Triangle| Two inputs equal (5,5,8) | correct |
+| Scalene Triangle | No input equal (5,4,3) | correct |
 ## Installation
 Web browser.
 Internet.
